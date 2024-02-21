@@ -31,23 +31,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/PrimalHQ/primal-android-app">
-    <img src="https://primal.net/assets/logo_fire-409917ad.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mrhcjones/minal">
+    <img src="https://github.com/mrhcjones/minal/assets/150591975/83a3caf6-993d-4719-b536-8c5f3967a9b7" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Primal</h3>
+<h3 align="center">Minal</h3>
 
   <p align="center">
     Featuring easy onboarding, fast & snappy UI, ability to explore Nostr, and create & manage custom feeds
     <br />
-    <a href="https://github.com/PrimalHQ/primal-android-app"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mrhcjones/minal"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/PrimalHQ/primal-android-app">View Demo</a>
+    <a href="https://github.com/mrhcjones/minal">View Demo</a>
     ·
-    <a href="https://github.com/PrimalHQ/primal-android-app/issues">Report Bug</a>
+    <a href="https://github.com/mrhcjones/minal/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PrimalHQ/primal-android-app/issues">Request Feature</a>
+    <a href="https://github.com/mrhcjones/minal/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,7 +94,7 @@
 ## About The Project
 
 <div align="center">
-    <img src="https://primal.net/assets/primal_android-d87a6b0d.png" alt="iPhone Screenshot">
+    <img src="https://primal.net/assets/primal_android-d87a6b0d.png" alt="iPhone Screenshot"> <!-- Change screenshot asap-->
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -176,9 +176,9 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 <!-- CONTACT -->
 ## Contact
 
-Alex - [@alex](https://primal.net/profile/npub1ky9s6hjl46wxcj9gcalhuk4ag2nea9yqufdyp9q9r496fns5g44sw0alex)
+HCJ - [hcj@verified-nostr.com](https://primal.net/profile/npub1f8thhae709nz89t2jn9v993v0qhm6jk642fz7dlncyhhu0huv4ys2xztzu)
 
-Project Link: [https://github.com/PrimalHQ/primal-android-app](https://github.com/PrimalHQ/primal-android-app)
+Project Link: [https://github.com/mrhcjones/minal](https://github.com/mrhcjones/minal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +186,7 @@ Project Link: [https://github.com/PrimalHQ/primal-android-app](https://github.co
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
+* [Primal (Android)](https://github.com/PrimalHQ/primal-android-app)
 * [NostrPostr](https://github.com/Giszmo/NostrPostr)
 * [Acinq](https://acinq.co)
 
@@ -196,16 +196,16 @@ Project Link: [https://github.com/PrimalHQ/primal-android-app](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/PrimalHQ/primal-android-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/PrimalHQ/primal-android-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PrimalHQ/primal-android-app.svg?style=for-the-badge
-[forks-url]: https://github.com/PrimalHQ/primal-android-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/PrimalHQ/primal-android-app.svg?style=for-the-badge
-[stars-url]: https://github.com/PrimalHQ/primal-android-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PrimalHQ/primal-android-app.svg?style=for-the-badge
-[issues-url]: https://github.com/PrimalHQ/primal-android-app/issues
-[license-shield]: https://img.shields.io/github/license/PrimalHQ/primal-android-app.svg?style=for-the-badge
-[license-url]: https://github.com/PrimalHQ/primal-android-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mrhcjones/minal.svg?style=for-the-badge
+[contributors-url]: https://github.com/mrhcjones/minal/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mrhcjones/minal.svg?style=for-the-badge
+[forks-url]: https://github.com/mrhcjones/minal/network/members
+[stars-shield]: https://img.shields.io/github/stars/mrhcjones/minal.svg?style=for-the-badge
+[stars-url]: https://github.com/mrhcjones/minal/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mrhcjones/minal.svg?style=for-the-badge
+[issues-url]: https://github.com/mrhcjones/minal/issues
+[license-shield]: https://img.shields.io/github/license/mrhcjones/minal.svg?style=for-the-badge
+[license-url]: https://github.com/mrhcjones/minal/blob/master/LICENSE.txt
 [Kotlin]: https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white
 [Kotlin-url]: https://kotlinlang.org
 [AndroidStudio]: https://img.shields.io/badge/androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=white
